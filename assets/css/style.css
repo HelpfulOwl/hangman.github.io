@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: white;
+    text-align:center;
+}
+
+#random-word{
+    height: 75px;
+    width: 302px;
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 3px;
+    padding-top: 18px;
+}
+
+#stick{
+    border: 1px solid white;
+}
+
+#guessed-letters{
+    height: 75px;
+    width:302px;
+    border: 1px solid white;
+    padding: 3px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+#buttons{
+    
+    height: 36px;
+    width:302px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding-top:2px;
+}
+
+
+
