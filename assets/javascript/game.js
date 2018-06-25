@@ -32,7 +32,7 @@ remaining = word.length;// this will be -- each letter that is correctly guessed
 
 
 //This logs whatever key was selected, converts it to uppercase.
-//while(remaining > 0 && 
+
 document.onkeyup=function(event){
    
     
